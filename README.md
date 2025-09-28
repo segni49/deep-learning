@@ -7,7 +7,7 @@ This project is a complete, reproducible system for classifying potato leaf dise
 
 ## Live Demo and Website
 
-- **Demo URL:** [https://your-demo-url.example.com]
+- **Demo URL:** [https://potato-leaf-classifier-nlenhvuzn-segni-abs-projects.vercel.app]
 
 ---
 
